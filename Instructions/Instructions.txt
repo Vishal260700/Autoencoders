@@ -1,0 +1,8 @@
+Follow the notebook in following manner - 
+1. Shallow Autoencoder
+2. Sparse Autoencoder
+3. Deep Autoencoder
+4. Deep Convolutional Autoencoder
+5. Denoising Autoencoder
+6. Image Colorization with Autoencoders Three Versions
+7. Anamoly detection with autoencoders
